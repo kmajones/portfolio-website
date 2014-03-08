@@ -1,5 +1,34 @@
 /* Your Website Styles */
+.container{
+	width:100%;
+}
+.intro{
+  width:100%;
+  height: 600px;
+  background: #5d5dcf;
+}
 
+.about-me{
+   width:100%;
+  height:300px;
+  background: #40bd35;
+}
+
+.portfolio{
+   width:100%;
+  height:600px;
+  background: #a6421e;
+}
+
+.contact{
+   width:100%;
+  height:500px;
+  background: #0f968b;
+}
+
+div{
+	width:33%;
+}
 
 /* Show Grid */
 .showgrid {
